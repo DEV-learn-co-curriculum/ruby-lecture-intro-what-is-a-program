@@ -1,4 +1,10 @@
-# Ruby Lecture: Introduction - What's a Program?
+---
+tags: introduction, basics, lecture
+language: ruby
+type: video
+---
+
+# Ruby Lecture: Introduction - What is a Program?
 
 <video controls width="100%">
   <source src="http://flatiron-videos.s3.amazonaws.com/ironboard/ruby/ruby-lecture-what-is-a-program/ruby-lecture-what-is-a-program.mp4" type="video/mp4" >
@@ -58,4 +64,4 @@ lib/a_ruby_program.rb:23:in `<main>': undefined local variable or method `see' f
 
 That last line, `lib/a_ruby_program.rb:23:in `<main>': undefined local variable or method `see' for main:Object (NameError)` is an error caused by the word in the source of our program. 
 
-We'll soon learn all about reading error messages.
+We'll soon learn all about reading errors.
